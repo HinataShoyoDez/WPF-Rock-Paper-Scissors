@@ -1,0 +1,16 @@
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe.config
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.pdb
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.AssemblyReference.cache
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\MainWindow.g.cs
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\App.g.cs
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper_Content.g.cs
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper_MarkupCompile.cache
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper_MarkupCompile.lref
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\MainWindow.baml
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.g.resources
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.Properties.Resources.resources
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.GenerateResource.cache
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.exe
+C:\Users\aliengin.sivas\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.pdb
